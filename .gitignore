@@ -31,3 +31,4 @@ config/APC/*
 config/NSL/*
 /doc/
 /Meta/
+.vs/*
